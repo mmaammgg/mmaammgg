@@ -1,4 +1,3 @@
-<!-- Greetings -->
 # Hi there 👋, I'm María Ángeles Magro Garrote
 
 Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **Deep Learning**. I also enjoy working on challenging problems, especially in **Statistical Learning**.
@@ -20,48 +19,48 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-### 🔭 My Projects
+### 🔥 My Projects
 
 #### 1. **Machine Learning**
 | Repository | Description |
 |------------|-------------|
-| [**Supermarket_product_recommender**](https://github.com/mariamagro/Supermarket_product_recommender) | 🛒 Product recommendation system using machine learning techniques. |
-| [**Bayesian_Case_Study**](https://github.com/mariamagro/Bayesian_Case_Study) | 🌌 Predict hazardous NEOs using Bayesian methods on NASA datasets. |
-| [**Machine_Learning_Applications**](https://github.com/mariamagro/Machine_Learning_Applications) | 🖥️ Forum enhancement project utilizing web scraping, clustering, and sentiment analysis. |
-| [**Pacman_Reinforcement**](https://github.com/mariamagro/Pacman_Reinforcement) | 🕹️ Building an agent for Pac-Man using decision trees, regression, and reinforcement learning. |
+| [**Machine_Learning_Applications**](https://github.com/mariamagro/Machine_Learning_Applications) | 🔄 Forum enhancement project utilizing advanced data analysis: web scraping, text preprocessing, vectorization, clustering, sentiment analysis, and topic modeling. |
+| [**Pacman_Reinforcement**](https://github.com/mariamagro/Pacman_Reinforcement) | 🕹️ Building an agent for Pac-Man using reinforcement learning. |
+| [**SupervisedTools_StatisticalLearning**](https://github.com/mariamagro/SupervisedTools_StatisticalLearning) | 🔢 Application of classification and regression techniques in R. |
+| [**UnsupervisedTools_StatisticalLearning**](https://github.com/mariamagro/UnsupervisedTools_StatisticalLearning) | 🎯 Exploration of unsupervised learning tools in R for Twitch data analysis. |
 
 #### 2. **Neural Networks**
 | Repository | Description |
 |------------|-------------|
-| [**RNN_Sentiment_Analysis**](https://github.com/mariamagro/RNN_Sentiment_Analysis) | 🌟 Sentiment analysis using RNNs and attention mechanisms. |
-| [**Deep_Autoencoders_MNIST_FMNIST**](https://github.com/mariamagro/Deep_Autoencoders_MNIST_FMNIST) | 🧠 Explore deep autoencoders on MNIST & FMNIST datasets. |
-| [**CNN_Bird_Cat_Classification**](https://github.com/mariamagro/CNN_Bird_Cat_Classification) | 🐦 vs 🐱 CNN-based classifier using the CIFAR-10 dataset. |
-| [**Exploring_Variational_Autoencoders_Gaussian_Mixture_Models**](https://github.com/mariamagro/Exploring_Variational_Autoencoders_Gaussian_Mixture_Models) | 🔀 Dive into VAEs for Gaussian Mixture Models. |
+| [**RNN_Sentiment_Analysis**](https://github.com/mariamagro/RNN_Sentiment_Analysis) | 🌿 Sentiment analysis using RNNs and attention mechanisms to improve text classification. |
+| [**Deep_Autoencoders_MNIST_FMNIST**](https://github.com/mariamagro/Deep_Autoencoders_MNIST_FMNIST) | 🧠 Explore deep autoencoders on MNIST & FMNIST datasets. Includes denoising, regularization, and architecture experiments. |
+| [**CNN_Bird_Cat_Classification**](https://github.com/mariamagro/CNN_Bird_Cat_Classification) | 🐦 vs 🐈 CNN-based classifier using the CIFAR-10 dataset. |
+| [**Exploring_Variational_Autoencoders_Gaussian_Mixture_Models**](https://github.com/mariamagro/Exploring_Variational_Autoencoders_Gaussian_Mixture_Models) | 🔀 Dive into VAEs for 3D Gaussian Mixture Models. Synthetic data generation & modeling. |
+| [**Chord_classifier**](https://github.com/mariamagro/Chord_classifier) | 🎵 Audio classification using signal processing techniques. |
+| [**Vessel_segmentation**](https://github.com/mariamagro/Vessel_segmentation) | 🧠 Medical image analysis and segmentation. |
 
 #### 3. **Web Analytics**
 | Repository | Description |
 |------------|-------------|
-| [**Web_Scraping**](https://github.com/mariamagro/Web_Scraping) | 🕸️ Automated web scraping for data collection. |
-| [**Worldbank_API**](https://github.com/mariamagro/Worldbank_API) | 🌍 Analyze global economic data using World Bank's API. |
-| [**API_creation**](https://github.com/mariamagro/API_creation) | 🔌 Custom API development for data processing and integration. |
+| [**Supermarket_product_recommender**](https://github.com/mariamagro/Supermarket_product_recommender) | 🛒 Dashboard for product recommendations using supermarket web data and the Open Food Facts API. |
+| [**Web_Scraping**](https://github.com/mariamagro/Web_Scraping) | 🔄 Scripts for automated web scraping tasks. |
+| [**Worldbank_API**](https://github.com/mariamagro/Worldbank_API) | 🌏 Analyze data using the World Bank API. |
 
 #### 4. **Statistical Learning**
 | Repository | Description |
 |------------|-------------|
-| [**Titanic_Analysis**](https://github.com/mariamagro/Titanic_Analysis) | 🚢 Statistical insights into Titanic survival factors using R. |
-| [**SupervisedTools_StatisticalLearning**](https://github.com/mariamagro/SupervisedTools_StatisticalLearning) | 📊 Classification and regression tools in R. |
-| [**UnsupervisedTools_StatisticalLearning**](https://github.com/mariamagro/UnsupervisedTools_StatisticalLearning) | 📈 Explore Twitch data with unsupervised learning techniques in R. |
-| [**Porfolio_Linear_Optimization**](https://github.com/mariamagro/Porfolio_Linear_Optimization) | 📑 Portfolio optimization using Pyomo. |
+| [**Bayesian_Case_Study**](https://github.com/mariamagro/Bayesian_Case_Study) | 🌌 Comparison of Bayesian and frequentist approaches using R2OpenBugs and MCMC libraries in R. |
+| [**Porfolio_Linear_Optimization**](https://github.com/mariamagro/Porfolio_Linear_Optimization) | 🔼 Portfolio optimization with Pyomo and mathematical constraints. |
+| [**Titanic_Analysis**](https://github.com/mariamagro/Titanic_Analysis) | 🚢 Analysis of survival factors from Titanic data using R. |
 
-#### 5. **Others**
+#### 5. **Others: Web Applications, Massive Computing, and Audio/Computer Vision**
 | Repository | Description |
 |------------|-------------|
-| [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Full-stack web application development using Flask. |
-| [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🚀 PageRank implementation with Spark on Databricks. |
-| [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Advanced Excel dashboard with dynamic tables and formulas. |
-| [**Chord_classifier**](https://github.com/mariamagro/Chord_classifier) | 🎵 Audio classification using signal processing techniques. |
-| [**Vessel_segmentation**](https://github.com/mariamagro/Vessel_segmentation) | 🩺 Medical image analysis and segmentation. |
-| [**visor_BLUETAB**](https://github.com/mariamagro/visor_BLUETAB) | 📡 Visualization tool using JavaScript for data exploration. |
+| [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
+| [**API_creation**](https://github.com/mariamagro/API_creation) | 🔗 Creation of APIs for data integration. |
+| [**visor_BLUETAB**](https://github.com/mariamagro/visor_BLUETAB) | 🔍 Web application for data visualization using JavaScript. |
+| [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🔄 Implementation of the PageRank algorithm using Spark in Databricks. |
+| [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboards with advanced formulas and pivot tables in Excel. |
 
 ---
 
@@ -71,6 +70,7 @@ More repositories are available in the [repository tab](https://github.com/maria
 
 ### 🛠️ Technologies & Tools
 
+<!-- Icons with links -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R" />
