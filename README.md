@@ -19,7 +19,7 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-### 🔥 My Projects
+### 🌟 My Projects
 
 #### 1. **Machine Learning**
 | **Repository** | **Description** |
