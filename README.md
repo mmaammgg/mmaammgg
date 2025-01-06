@@ -45,6 +45,7 @@ Feel free to explore my repositories and connect with me!
 | [**Supermarket_product_recommender**](https://github.com/mariamagro/Supermarket_product_recommender) | 🛒 Dashboard for product recommendations using supermarket web data and the Open Food Facts API. |
 | [**Web_Scraping**](https://github.com/mariamagro/Web_Scraping) | 🔄 Scripts for automated web scraping tasks. |
 | [**Worldbank_API**](https://github.com/mariamagro/Worldbank_API) | 🌏 Analyze data using the World Bank API. |
+| [**API_creation**](https://github.com/mariamagro/API_creation) | 🔗 Creation of APIs for data integration. |
 
 #### 4. **Statistical Learning**
 | Repository | Description |
@@ -53,12 +54,10 @@ Feel free to explore my repositories and connect with me!
 | [**Porfolio_Linear_Optimization**](https://github.com/mariamagro/Porfolio_Linear_Optimization) | 🔼 Portfolio optimization with Pyomo and mathematical constraints. |
 | [**Titanic_Analysis**](https://github.com/mariamagro/Titanic_Analysis) | 🚢 Analysis of survival factors from Titanic data using R. |
 
-#### 5. **Others: Web Applications, Massive Computing, and Audio/Computer Vision**
+#### 5. **Others: Web Applications, Massive Computing, and Excel**
 | Repository | Description |
 |------------|-------------|
 | [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
-| [**API_creation**](https://github.com/mariamagro/API_creation) | 🔗 Creation of APIs for data integration. |
-| [**visor_BLUETAB**](https://github.com/mariamagro/visor_BLUETAB) | 🔍 Web application for data visualization using JavaScript. |
 | [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🔄 Implementation of the PageRank algorithm using Spark in Databricks. |
 | [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboards with advanced formulas and pivot tables in Excel. |
 
