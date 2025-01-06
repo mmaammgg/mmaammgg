@@ -36,16 +36,16 @@ Feel free to explore my repositories and connect with me!
 | [**Deep_Autoencoders_MNIST_FMNIST**](https://github.com/mariamagro/Deep_Autoencoders_MNIST_FMNIST) | 🧠 Explore deep autoencoders on MNIST & FMNIST datasets. Includes denoising, regularization, and architecture experiments. |
 | [**CNN_Bird_Cat_Classification**](https://github.com/mariamagro/CNN_Bird_Cat_Classification) | 🐦 vs 🐈 CNN-based classifier using the CIFAR-10 dataset. |
 | [**Exploring_Variational_Autoencoders_Gaussian_Mixture_Models**](https://github.com/mariamagro/Exploring_Variational_Autoencoders_Gaussian_Mixture_Models) | 🔀 Dive into VAEs for 3D Gaussian Mixture Models. Synthetic data generation & modeling. |
-| [**Chord_classifier**](https://github.com/mariamagro/Chord_classifier) | 🎵 Audio classification using signal processing techniques. |
-| [**Vessel_segmentation**](https://github.com/mariamagro/Vessel_segmentation) | 🧠 Medical image analysis and segmentation. |
+| [**Chord_classifier**](https://github.com/mariamagro/Chord_classifier) | 🎵 Classification of minor and major signals extracting key audio features. |
+| [**Vessel_segmentation**](https://github.com/mariamagro/Vessel_segmentation) | 🧠 Retina image analysis and segmentation. |
 
 #### 3. **Web Analytics**
 | **Repository** | **Description** |
 |:--------------:|:---------------:|
 | [**Supermarket_product_recommender**](https://github.com/mariamagro/Supermarket_product_recommender) | 🛒 Dashboard for product recommendations using supermarket web data and the Open Food Facts API. |
-| [**Web_Scraping**](https://github.com/mariamagro/Web_Scraping) | 🔄 Scripts for automated web scraping tasks. |
+| [**Web_Scraping**](https://github.com/mariamagro/Web_Scraping) | 🔄 Different approaches for web scrapping: Beautiful Soup, Scrapy and Selenium. |
 | [**Worldbank_API**](https://github.com/mariamagro/Worldbank_API) | 🌏 Analyze data using the World Bank API. |
-| [**API_creation**](https://github.com/mariamagro/API_creation) | 🔗 Creation of APIs for data integration. |
+| [**API_creation**](https://github.com/mariamagro/API_creation) | 🌐 Flask-based API with client-server setup for sending requests, processing user data and validating access tokens. |
 
 #### 4. **Statistical Learning**
 | **Repository** | **Description** |
@@ -59,7 +59,7 @@ Feel free to explore my repositories and connect with me!
 |:--------------:|:---------------:|
 | [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
 | [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🔄 Implementation of the PageRank algorithm using Spark in Databricks. |
-| [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboards with advanced formulas and pivot tables in Excel. |
+| [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboard simulating Oscars and Razzies with advanced formulas, VBA and pivot tables in Excel. |
 
 ---
 
