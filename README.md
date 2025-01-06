@@ -79,3 +79,14 @@ More repositories are available in the [repository tab](https://github.com/maria
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
 </p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-angeles-magro-garrote/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mamgmadrid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</p>
