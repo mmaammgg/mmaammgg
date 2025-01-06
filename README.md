@@ -63,7 +63,7 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-More repositories are available in the [repository tab](https://github.com/mariamagro?tab=repositories). Feel free to explore!
+More repositories are available in the [repository tab](https://github.com/mariamagro?tab=repositories). 
 
 ---
 
